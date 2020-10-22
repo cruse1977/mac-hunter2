@@ -1,0 +1,13 @@
+---
+
+cisco_group:
+  username: cisco
+  password: cisco
+  enable: cisco
+  platform: 'cisco_ios'
+  verbose: True
+  connection_options:
+    netmiko:
+      extras: {}
+
+
